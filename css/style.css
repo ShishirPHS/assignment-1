@@ -49,6 +49,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
+  padding-top: 50px;
 }
 
 .banner-title {
@@ -93,7 +94,7 @@ body {
   color: #e55473;
 }
 
-.hot-deal .title-description {
+.hot-deal .section-description {
   width: 594px;
   text-align: center;
   margin: 24px 0 32px;
@@ -110,11 +111,11 @@ body {
   margin: 128px auto;
 }
 
-.instagram .title-heading {
+.instagram .section-title {
   text-align: center;
 }
 
-.instagram .title-description {
+.instagram .section-description {
   width: 594px;
   margin: 24px auto 48px;
   text-align: center;
@@ -140,7 +141,7 @@ body {
   padding: 121px 0;
 }
 
-.latest-deals .title-description {
+.latest-deals .section-description {
   margin: 16px 0 48px;
 }
 
