@@ -30,6 +30,10 @@ body {
   padding: 20px 43px;
   border: 0;
 }
+
+.different-color {
+  color: #e55473;
+}
 /* shared css styles end */
 
 /* banner part css start */
@@ -88,10 +92,6 @@ body {
   justify-content: center;
   align-items: center;
   padding-top: 50px;
-}
-
-.hot-deal-title {
-  color: #e55473;
 }
 
 .hot-deal .section-description {
@@ -177,13 +177,9 @@ body {
 }
 
 .footer-title {
-  color: #e55473;
+  color: #fff;
   font-size: 48px;
   font-weight: 800;
-}
-
-.footer .white {
-  color: #ffffff;
 }
 
 .footer-description {
