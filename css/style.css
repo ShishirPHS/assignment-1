@@ -8,6 +8,12 @@ body {
   font-family: "Lato", sans-serif;
 }
 
+.title-heading {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+}
+
 .title-description {
   color: rgba(39, 39, 39, 0.6);
   font-size: 18px;
@@ -60,3 +66,39 @@ body {
   padding-top: 50px;
 }
 /* banner part css end */
+
+/* hot deal part css start */
+.hot-deal {
+  background: rgba(229, 84, 115, 0.05);
+}
+
+.hot-deal-container {
+  display: flex;
+  justify-content: center;
+  width: 1440px;
+  margin: 0 auto;
+  padding: 100px 0;
+}
+
+.hot-deal .left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+}
+
+.hot-deal-title {
+  color: #e55473;
+}
+
+.hot-deal .title-description {
+  width: 594px;
+  text-align: center;
+  margin: 24px 0 32px;
+}
+
+.hot-deal .right {
+  margin-left: 186px;
+}
+/* hot deal part css end */
