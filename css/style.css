@@ -8,13 +8,13 @@ body {
   font-family: "Lato", sans-serif;
 }
 
-.title-heading {
+.section-title {
   color: #272727;
   font-size: 40px;
   font-weight: 800;
 }
 
-.title-description {
+.section-description {
   color: rgba(39, 39, 39, 0.6);
   font-size: 18px;
   font-weight: 400;
