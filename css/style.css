@@ -102,3 +102,24 @@ body {
   margin-left: 186px;
 }
 /* hot deal part css end */
+/* instagram part css start */
+.instagram {
+  width: 1440px;
+  margin: 128px auto;
+}
+
+.instagram .title-heading {
+  text-align: center;
+}
+
+.instagram .title-description {
+  width: 594px;
+  margin: 24px auto 48px;
+  text-align: center;
+}
+
+.instagram .images {
+  display: flex;
+  justify-content: space-between;
+}
+/* instagram part css end */
