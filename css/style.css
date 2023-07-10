@@ -73,6 +73,67 @@ body {
 }
 /* banner part css end */
 
+/* featured flowers part css start */
+.featured-flowers {
+  width: 1440px;
+  margin: 178px auto 128px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.featured-flowers .title-description {
+  width: 594px;
+}
+
+.featured-flowers .section-description {
+  width: 594px;
+  text-align: center;
+  margin: 24px 0 48px;
+}
+
+.flowers {
+  display: flex;
+  align-items: flex-end;
+  column-gap: 24px;
+}
+
+.flowers .flower-1 {
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+  padding: 110px 78px 0 76px;
+}
+
+.flowers .flower-2 {
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(5, 151, 160, 0.15);
+  padding: 117px 47px 51px;
+}
+
+.flowers .flower-3 {
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
+  padding: 67px 75px 0;
+}
+
+.flower {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flower a {
+  color: #272727;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 35px;
+  text-decoration-line: underline;
+  margin-top: 32px;
+}
+
+/* featured flowers part css end */
+
 /* hot deal part css start */
 .hot-deal {
   background: rgba(229, 84, 115, 0.05);
