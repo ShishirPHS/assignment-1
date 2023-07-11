@@ -136,7 +136,32 @@ body {
 /* featured flowers part css end */
 
 /* delivery and support related css start */
+.delivery-and-support {
+  width: 1440px;
+  margin: 0 auto 128px;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  display: flex;
+  justify-content: space-between;
+  padding: 86px 175px;
+  box-sizing: border-box;
+}
 
+.service {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.delivery-and-support-text {
+  margin-top: 24px;
+  color: rgba(39, 39, 39, 0.8);
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 35px;
+}
 /* delivery and support related css end */
 
 /* hot deal part css start */
