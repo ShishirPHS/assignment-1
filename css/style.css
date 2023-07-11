@@ -135,6 +135,28 @@ body {
 
 /* featured flowers part css end */
 
+/* new arrivals css start */
+.new-arrivals {
+  width: 1440px;
+  margin: 0 auto 128px;
+}
+
+.new-arrivals .section-title {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.new-arrivals .images {
+  display: flex;
+  justify-content: space-between;
+}
+
+.new-arrivals img {
+  width: 342px;
+  height: 396px;
+}
+/* new arrivals css end */
+
 /* delivery and support related css start */
 .delivery-and-support {
   width: 1440px;
